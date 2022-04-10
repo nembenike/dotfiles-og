@@ -5,6 +5,7 @@ my messy dotfiles
 - Browser: Brave Browser
 - Windows Manager: i3
 - Bar: Polybar
+- Fonts: Font Awesome, Fira Code
 - Compositor: picom
 - AUR helper: yay
 - Editor: Neovim
