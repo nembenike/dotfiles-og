@@ -6,6 +6,7 @@ my messy dotfiles
 - Windows Manager: i3
 - Bar: Polybar
 - Fonts: Font Awesome, Fira Code
+- Audio visualizer: cava (https://github.com/karlstav/cava)
 - Compositor: picom
 - AUR helper: yay
 - Editor: Neovim
