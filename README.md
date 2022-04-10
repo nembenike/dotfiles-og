@@ -8,4 +8,4 @@ my messy dotfiles
 - For colors I used pywal(https://github.com/dylanaraps/pywal)
 - Distro: Arch Linux
 # Screenshot
-![screenshot](https://i.imgur.com/Ahg8xtJ.png)
+![screenshot](https://i.imgur.com/wMZaNlQ.png)
