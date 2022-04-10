@@ -6,3 +6,5 @@ my messy dotfiles
 - Terminal: st (luke smiths' build https://github.com/LukeSmithxyz/st)
 - Shell: fish and bash
 - Distro: Arch Linux
+# Screenshot
+![screenshot](https://imgur.com/a/gbaeeVd)
