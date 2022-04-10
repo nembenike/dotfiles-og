@@ -7,4 +7,4 @@ my messy dotfiles
 - Shell: fish and bash
 - Distro: Arch Linux
 # Screenshot
-![screenshot](https://imgur.com/a/gbaeeVd)
+![screenshot](https://i.imgur.com/Ahg8xtJ.png)
