@@ -23,7 +23,14 @@ font pango:monospace 0
 exec --no-startup-id dex --autostart --environment i3 &
 exec_always --no-startup-id /home/beni/.config/polybar/launch.sh
 exec --no-startup-id picom
-exec --no-startup-id premid
+
+# Autostart on specific workspaces
+exec --no-startup-id i3-msg 'workspace $ws1; exec brave; workspace $ws2'
+exec --no-startup-id i3-msg 'workspace $ws2; exec discord; workspace $ws3'
+exec --no-startup-id i3-msg 'workspace $ws3; exec spotify; workspace $ws1'
+
+
+
 # exec --no-startup-id wal -R
 # Hide titles
 
@@ -170,6 +177,7 @@ client.urgent           $bg     $bg     $fg  $bg       $bg
 client.placeholder      $bg     $bg     $fg  $bg       $bg
 
 client.background       $bg
+
 
 
 
