@@ -20,3 +20,4 @@ my messy dotfiles
 - Distro: Arch Linux (https://archlinux.org)
 # Screenshot
 ![screenshot](https://i.imgur.com/DbrZS31.png)
+![screenshot2](https://i.imgur.com/Aw13RY3.png)
