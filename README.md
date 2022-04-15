@@ -1,6 +1,6 @@
 # dotfiles
 my messy dotfiles
-- (Latest update: added full time to polybar)
+- (Latest update: updated everything)
 - If you actually consider using these then good luck because even I don't understand what's going on here anymore
 - DM: lightdm
 - Browser: Brave Browser
