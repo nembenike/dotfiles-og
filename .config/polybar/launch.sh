@@ -7,5 +7,5 @@ killall -q polybar
 while pgrep -x polybar >/dev/null; do sleep 1; done
  
 # Launch bar1 and bar2
-wal -R
+wal -i ~/Wallpapers/
 polybar example
