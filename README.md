@@ -8,7 +8,7 @@ my messy dotfiles
 - Bar: Polybar
 - Fonts: Font Awesome, Fira Code
 - Audio visualizer: cava (https://github.com/karlstav/cava)
-- Compositor: picom
+- Compositor: Fork of picom (https://github.com/jonaburg/picom)
 - AUR helper: yay
 - Editor: Neovim
 - Music: Spotify
