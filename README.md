@@ -15,7 +15,7 @@ my messy dotfiles
 - Screenshot: scrot
 - Launcher: dmenu
 - Terminal: st (luke smiths' build https://github.com/LukeSmithxyz/st)
-- Shell: fish and bash
+- Shell: bash
 - Color scheme, colors: Pywal(https://github.com/dylanaraps/pywal, I use `pywal -i xyz.png`, and colors are configured in the programs.
 - Distro: Arch Linux (https://archlinux.org)
 # Screenshot
