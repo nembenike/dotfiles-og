@@ -2,6 +2,9 @@
 my messy dotfiles
 - (Latest update: updated everything)
 - If you actually consider using these then good luck because even I don't understand what's going on here anymore
+- For polybar spotify intergration install: playerctl (pacman), zscroll (yay)
+- And make sure that polybar scripts are executable
+- For screenshots to work you need to make ~/Screenshots
 - DM: lightdm
 - Browser: Brave Browser
 - Windows Manager: i3
