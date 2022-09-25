@@ -22,7 +22,7 @@ font pango:monospace 0
 # https://wiki.archlinux.org/index.php/XDG_Autostart
 exec --no-startup-id dex --autostart --environment i3 &
 exec_always --no-startup-id picom
-exec_always --no-startup-id /home/beni/.config/polybar/launch.sh
+exec_always --no-startup-id ~/.config/polybar/launch.sh
 
 # exec --no-startup-id wal -R
 # Hide titles
