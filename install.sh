@@ -6,12 +6,12 @@ sudo pacman -Syu git polybar ttf-font-awesome ttf-fira-code neovim scrot python-
 git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si
-yay -S brave-bin zscroll spotify picom-jonaburg-git
+yay -S brave-bin zscroll-git spotify picom-jonaburg-git
 mkdir ~/Screenshots
-mkdir ~/dotfiles
-cd ~/dotfiles
+mkdir ~/dotfiless
+cd ~/dotfiless
 git clone https://github.com/benilol98/dotfiles
-cd dotfiles
+cd dotfiless
 mv Wallpapers ~
 mv .bashrc ~
 cd .config
