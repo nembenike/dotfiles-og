@@ -11,7 +11,7 @@ mkdir ~/Screenshots
 mkdir ~/dotfiless
 cd ~/dotfiless
 git clone https://github.com/benilol98/dotfiles
-cd dotfiless
+cd dotfiles
 mv Wallpapers ~
 mv .bashrc ~
 cd .config
