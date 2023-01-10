@@ -2,7 +2,7 @@
 echo "This script will set up my dotfiles and install necessary packages."
 mkdir pkgs
 cd pkgs
-sudo pacman -Syu git polybar ttf-font-awesome ttf-fira-code neovim scrot python-pywal
+sudo pacman -Syu git polybar ttf-font-awesome ttf-fira-code neovim scrot python-pywal feh
 git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si
