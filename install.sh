@@ -6,7 +6,7 @@ sudo pacman -Syu git polybar ttf-font-awesome ttf-fira-code neovim scrot python-
 git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si
-yay -S brave-bin zscroll-git spotify picom-jonaburg-git ttf-font-awesome-5
+yay -S brave-bin zscroll-git spotify picom-jonaburg-git ttf-font-awesome-5 easy-zsh-config
 mkdir ~/Screenshots
 mkdir ~/dotfiless
 cd ~/dotfiless
@@ -14,6 +14,7 @@ git clone https://github.com/benilol98/dotfiles
 cd dotfiles
 mv Wallpapers ~
 mv .bashrc ~
+mv .zprofile ~
 cd .config
 mv i3/config ~/.config/i3/config
 mkdir ~/.config/picom
@@ -30,4 +31,6 @@ cd ~/.config
 git clone https://github.com/lukesmithxyz/st
 cd st
 sudo make clean install
+cp /etc/zsh/zshrc ~/.zshrc
+chsh $USER -s /usr/bin/zsh
 echo "Script is finished"
