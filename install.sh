@@ -31,6 +31,8 @@ cd ~/.config
 git clone https://github.com/lukesmithxyz/st
 cd st
 sudo make clean install
+curl -fLO https://github.com/IdreesInc/Monocraft/releases/download/v2.3/Monocraft.otf >> /usr/share/fonts/Monocraft.otf
+sudo fc-cache -fv
 cp /etc/zsh/zshrc ~/.zshrc
 chsh $USER -s /usr/bin/zsh
 echo "Script is finished"
