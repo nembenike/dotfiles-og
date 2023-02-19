@@ -1,4 +1,5 @@
 # dotfiles
+# INSTALL SCRIPT COULD BE BROKEN!!! (only use it as a guide)
 my messy dotfiles
 - (Latest update: updated everything)
 - If you actually consider using these then good luck because even I don't understand what's going on here anymore
